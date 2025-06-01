@@ -1,0 +1,10 @@
+# Core dependencies
+numpy
+Pillow
+streamlit>=1.28.0
+insightface>=0.7.3
+onnxruntime-gpu>=1.15.0
+opencv-python>=4.7.0
+
+# Note: Install PyTorch separately with:
+# pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu121
